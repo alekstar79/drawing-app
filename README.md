@@ -1,6 +1,6 @@
 # Drawing App
 
-[Demo](https://alekstar79.github.io/resize-image)
+[Demo](https://alekstar79.github.io/drawing-app)
 
 In this drawing app, users can draw different shapes like rectangles, circles, and triangles in their preferred colors.
 They can also erase or download their drawing as an image. All these functionalities are done with HTML5 canvas & pure JavaScript,
